@@ -1,11 +1,5 @@
 # Hi there!! I'm Breno Ferrari, Web Developer and Computer Engineer
 
-<div align="center">
-  <a href="https://github.com/breno-Ferrari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-Ferrari&show_icons=true&theme=calm&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-Ferrari&layout=compact&theme=calm&langs_count=7"/>
-</div>
-  
 # Languages and Tools
 
 ## Front-end:
@@ -24,8 +18,22 @@
    <img align="center" alt="Breno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Breno-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">       
    <img align="center" alt="Breno-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">       
+   <img align="center" alt="Breno-JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">       
 </div>
 
-          
- 
+## Extra Tools:
+<div style="display: inline_block" align="left"><br>          
+   <img align="center" alt="Breno-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center" alt="Breno-TORTOISE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg">
+   <img align="center" alt="Breno-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">       
+   <img align="center" alt="Breno-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">       
 </div>
+
+</div><br>
+
+<div align="center">
+  <a href="https://github.com/breno-Ferrari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-Ferrari&show_icons=true&theme=calm&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-Ferrari&layout=compact&theme=calm&langs_count=7"/>
+</div>
+  
